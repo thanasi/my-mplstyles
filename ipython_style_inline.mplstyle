@@ -1,0 +1,30 @@
+# most of the format comes from the bmh style
+# colors from colorbrewer.org (diverging 12-class paired)
+
+
+lines.linewidth: 2.0
+lines.color: b2df8a
+
+patch.linewidth: 0.5
+patch.facecolor: blue
+patch.edgecolor: efefef
+patch.antialiased: True
+
+text.hinting_factor : 8
+
+mathtext.fontset : cm
+
+axes.facecolor: ffffff
+axes.edgecolor: bcbcbc
+axes.grid : True
+axes.titlesize: x-large
+axes.labelsize: large
+
+axes.color_cycle : 1F78B4, 33A02C, E31A1C, FF7F00, 6A3D9A, B15928, A6CEE3, B2DF8A, FB9A99, FDBF6F, CAB2D6, FFFF99
+
+figure.figsize: 12.0, 12.0
+figure.facecolor: ffffff
+
+legend.fancybox: True
+
+font.size: 13
