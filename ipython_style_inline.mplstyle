@@ -28,3 +28,6 @@ figure.facecolor: ffffff
 legend.fancybox: True
 
 font.size: 13
+
+image.interpolation : nearest
+image.cmap : gray
